@@ -1,0 +1,80 @@
+
+KITTI
+
+fcgf
+
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/KITTI/correspondence_fcgf --dataset_name KITTI --descriptor fcgf --start_index 0 --no_logs false
+
+
+fpfh
+
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/KITTI/correspondence_fpfh --dataset_name KITTI --descriptor fpfh --start_index 0 --no_logs false
+
+
+
+
+3Dmatch
+
+fcgf
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/3dmatch_3dlomatch --dataset_name 3dmatch --descriptor fcgf --start_index 0 --no_logs false
+
+fpfh
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/3dmatch_3dlomatch --dataset_name 3dmatch --descriptor fpfh --start_index 0 --no_logs false
+
+
+
+3DLomatch
+
+fcgf
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/3dmatch_3dlomatch --dataset_name 3dlomatch --descriptor fcgf --start_index 0 --no_logs false
+
+fpfh
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/3dmatch_3dlomatch --dataset_name 3dlomatch --descriptor fpfh --start_index 0 --no_logs false
+
+
+U3M
+
+fcgf
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/U3M --dataset_name U3M --descriptor fcgf --start_index 0 --no_logs false
+
+fpfh
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/U3M --dataset_name U3M --descriptor fpfh --start_index 0 --no_logs false
+
+
+
+RAW_ETH
+
+gazebo_summer
+
+fcgf
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/RAW_ETH/gazebo_summer --dataset_name ETH --descriptor fcgf --start_index 0 --no_logs false
+
+fpfh
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/RAW_ETH/gazebo_summer --dataset_name ETH --descriptor fpfh --start_index 0 --no_logs false
+
+
+gazebo_winter
+
+fcgf
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/RAW_ETH/gazebo_winter --dataset_name ETH --descriptor fcgf --start_index 0 --no_logs false
+
+fpfh
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/RAW_ETH/gazebo_winter --dataset_name ETH --descriptor fpfh --start_index 0 --no_logs false
+
+
+wood_autmn
+
+fcgf
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/RAW_ETH/wood_autmn --dataset_name ETH --descriptor fcgf --start_index 0 --no_logs false
+
+fpfh
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/RAW_ETH/wood_autmn --dataset_name ETH --descriptor fpfh --start_index 0 --no_logs false
+
+
+wood_summer
+
+fcgf
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/RAW_ETH/wood_summer --dataset_name ETH --descriptor fcgf --start_index 0 --no_logs false
+
+fpfh
+./MAC --output_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/output --input_path /mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/dataset/RAW_ETH/wood_summer --dataset_name ETH --descriptor fpfh --start_index 0 --no_logs false

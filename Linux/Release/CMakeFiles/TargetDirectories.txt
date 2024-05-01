@@ -1,0 +1,3 @@
+/mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/Release/CMakeFiles/MAC.dir
+/mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/Release/CMakeFiles/edit_cache.dir
+/mnt/d/Desktop/research/3D-Registration-with-Maximal-Cliques/Linux/Release/CMakeFiles/rebuild_cache.dir
