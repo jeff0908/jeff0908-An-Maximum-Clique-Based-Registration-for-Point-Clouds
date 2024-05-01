@@ -35,10 +35,9 @@ All tested datasets can be found at this [3D-Registration-with-Maximal-Cliques](
 
 ## Results
 
-<img src="[https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques/blob/main/figures/vary_reg.png](https://github.com/jeff0908/jeff0908-An-Maximum-Clique-Based-Registration-for-Point-Clouds/blob/main/experiment_pic/kitti1.jpg)" width="600px">
-<img src="[https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques/blob/main/figures/vary_reg.png](https://github.com/jeff0908/jeff0908-An-Maximum-Clique-Based-Registration-for-Point-Clouds/blob/main/experiment_pic/3dmatch2.jpg)" width="600px">
-<img src="[https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques/blob/main/figures/vary_reg.png](https://github.com/jeff0908/jeff0908-An-Maximum-Clique-Based-Registration-for-Point-Clouds/blob/main/experiment_pic/3dlomatch3.jpg)" width="600px">
-
+![](figures/kitti1.jpg)
+![](figures/3dmatch.jpg)
+![](figures/3dlomatch3.jpg)
 ### 3DMatch  
 
 |    Benchmark   | RR(%) | RE(°) |TE(cm) |
