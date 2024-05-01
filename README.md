@@ -36,7 +36,7 @@ All tested datasets can be found at this [3D-Registration-with-Maximal-Cliques](
 ## Results
 
 ![](figures/kitti1.jpg)
-![](figures/3dmatch.jpg)
+![](figures/3dmatch2.jpg)
 ![](figures/3dlomatch3.jpg)
 ### 3DMatch  
 
